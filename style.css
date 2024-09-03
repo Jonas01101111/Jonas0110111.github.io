@@ -72,5 +72,6 @@
     font-style: italic;
   }
 
-  body{background-color: blue;
+body{
+  background-color: blue;
   color: white;}
